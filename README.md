@@ -1,3 +1,4 @@
+** CARD GAME ** <br />
 Multiplayer game for android to simulate a deck of cards to play with friends any game you want. Use cases: 1.-You are with a group of friends and have forgotten the deck of cards and can't play. 2.-You are with a gorup of friends and the environment doesn't make it possible to play cards e.g. playing on a bar, where sometimes it is not allowed or playing for instance without a table. 3.-You are not on the same physical place as your friends and want to play a game of cards online.
 
 Things not implemented yet: -Publish on the play store. -In app purchases for making a player on the friend group pay 0.99$ and be the "Dealer" wich will be the admin of the game. This dealer will be able to manage the cards on the game ,turns and the creation of game rooms. -In game options to manage the game playing. -Improve general appearance of the game.
